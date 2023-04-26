@@ -1,7 +1,7 @@
 # Go-Postgres
 
 This project is simple CRUD application built in golang and using PostgreSQL as DB.
-This project is explained in this [tutorial].
+This project is explained in this https://codinghelp.io/building-a-golang-crud-application-using-postgresql/
 
 ## Pre-requisite
 1. Install golang v1.11 or above.
