@@ -10,19 +10,3 @@ This project is explained in this [tutorial].
 4. Code Editor (I recommend to use VS Code with Go extension by Microsoft installed)
 5. Postman for calling APIs
   
-## PostgreSQL Table
-
-```sql
-CREATE TABLE users (
-  userid SERIAL PRIMARY KEY,
-  name TEXT,
-  age INT,
-  location TEXT
-);
-```
-
-## Author
-
-I am Shubham Chadokar. I am Software Engineer and work mostly on backend development.
-I love write the articles and tutorials on Golang, Nodejs, Blockhain.
-You can read all my articles and tutorials [here](https://schadokar.dev).  
